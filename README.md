@@ -21,13 +21,13 @@ The following Libraries and tools were used for this Project:
 
 # Exploratory Data Analysis
 The analysis performed on the stock market data provided the following insights:
-1. Visualised the graph of Stock Price Performance of all the six Tickers for last three years.
-2. Over the last three years, Wipro’s stock price performance experienced significant growth.
-3. On the contrast, as we  analyzed from the graph that Infosys stocks faced a major downfall in the last three years.
-4. Then we plotted the Area charts collectively of six companies to show their last three years of Stock Prices.
-5. A line graph of all the six companies’ stocks depicting the last three years of Volume of Stock traded.
-6. The Data information of Moving Averages of all the stocks by grouping them in MA10 i.e., for 10 days and MA20 i.e., for 20 days respectively.
-7. We showed the Volatility of all six companies in past three years.
-8. We plotted the correlations between random pair of companies in terms of their Close dates over the past three years.
+- Visualised the graph of Stock Price Performance of all the six Tickers for last three years.
+- Over the last three years, Wipro’s stock price performance experienced significant growth.
+- On the contrast, as we  analyzed from the graph that Infosys stocks faced a major downfall in the last three years.
+- Then we plotted the Area charts collectively of six companies to show their last three years of Stock Prices.
+- A line graph of all the six companies’ stocks depicting the last three years of Volume of Stock traded.
+- The Data information of Moving Averages of all the stocks by grouping them in MA10 i.e., for 10 days and MA20 i.e., for 20 days respectively.
+- We showed the Volatility of all six companies in past three years.
+- We plotted the correlations between random pair of companies in terms of their Close dates over the past three years.
 
 
