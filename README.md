@@ -31,3 +31,5 @@ The analysis performed on the stock market data provided the following insights:
 - We plotted the correlations between random pair of companies in terms of their Close dates over the past three years.
 
 
+# TO VIEW THE FULL NOTEBOOK 
+https://nbviewer.org/github/Anshita1902/Stock-Market-Performance-EDA/blob/main/Stock%20Market%20Performance%20Analysis.ipynb
