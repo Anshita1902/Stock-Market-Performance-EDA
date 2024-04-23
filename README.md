@@ -27,8 +27,8 @@ The analysis performed on the stock market data provided the following insights:
 - Then we plotted the Area charts collectively of six companies to show their last three years of Stock Prices.
 - A line graph of all the six companies’ stocks depicting the last three years of Volume of Stock traded.
 - The Data information of Moving Averages of all the stocks by grouping them in MA10 i.e., for 10 days and MA20 i.e., for 20 days respectively.
-- We showed the Volatility of all six companies in past three years.
-- We plotted the correlations between random pair of companies in terms of their Close dates over the past three years.
+- Showed the Volatility of all six companies in past three years.
+- Plotted the correlations between random pair of companies in terms of their Close dates over the past three years.
 
 
 # TO VIEW THE FULL NOTEBOOK 
